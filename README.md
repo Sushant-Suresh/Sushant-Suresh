@@ -11,6 +11,9 @@
 - [E-Commerce Data Analysis](https://github.com/Sushant-Suresh/E-commerce_Data-Analysis_SQL_Project): Analyzed e-commerce data of Amazon to address key business questions and uncover insights.
 
 # 📜 Certifications: 
+- [Google Data Analytics](https://coursera.org/share/0964612a75849d14e77a6a9e367aeb04)
+- [Excel Skills for Data Analytics and Visualization](https://coursera.org/share/3b0168259ebfce1c7540711b46d5a31d)
+- [Zero Analyst SQL Workshop](https://drive.google.com/file/d/132NKku0QfVdd_S2gZRHwKiOExrLRa0HL/view?usp=sharing)
 
 # Get in Touch
 - 💬 Connect with me on LinkedIn: 
