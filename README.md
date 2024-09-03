@@ -3,7 +3,7 @@
 👋 Hi there! I'm Sushant, I love to analyze, visualize, and uncover patterns within data.
 
 # About Me
-- 📈 Skilled in Python, SQL, Advanced Excel and Tableau, I specialize in data analysis, visualization, and dashboard creation.
+- 📈 Skilled in SQL, Advanced Excel, Tableau and Python, I specialize in data analysis, visualization, and dashboard creation.
 - 🧐 I'm enthusiastic about problem-solving and transforming data into insights.
 
 # What You'll Find Here
