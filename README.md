@@ -8,6 +8,7 @@
 
 # What You'll Find Here
 📚 Projects: Explore my work in data analysis, visualization, etc including:
+- [E-Commerce Data Analysis](https://github.com/Sushant-Suresh/E-commerce_Data-Analysis_SQL_Project): Analyzed e-commerce data of Amazon to address key business questions and uncover insights.
 
 # 📜 Certifications: 
 
