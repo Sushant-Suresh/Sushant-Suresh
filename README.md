@@ -9,6 +9,7 @@
 # What You'll Find Here
 📚 Projects: Explore my work in data analysis, visualization, etc including:
 - [E-Commerce Data Analysis](https://github.com/Sushant-Suresh/E-commerce_Data-Analysis_SQL_Project): Analyzed e-commerce data of Amazon to address key business questions and uncover insights.
+- [Crimes Against Women in India Dashboard](https://docs.google.com/spreadsheets/d/1NzlhcD1FLMAJ5KCEU_CGlKV072vk4KautzignMAPf3w/edit?usp=sharing): Analyzed trends and visualized key insights into various types of crimes against women using a detailed dashboard.
 
 # 📜 Certifications: 
 - [Google Data Analytics](https://coursera.org/share/0964612a75849d14e77a6a9e367aeb04)
