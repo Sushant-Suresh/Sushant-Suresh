@@ -1,13 +1,12 @@
-# Welcome to My GitHub!
+# 👋 Welcome to My GitHub!
 
-👋 Hi there! I'm Sushant, I love to analyze, visualize, and uncover patterns within data.
+Hi there! I'm Sushant, I love to analyze, visualize, and uncover patterns within data.
 
-# About Me
+# 🧐 About Me
 - 📈 Skilled in SQL, Advanced Excel, PowerBI and Python, I specialize in data analysis, visualization, and dashboard creation.
-- 🧐 I'm enthusiastic about problem-solving and transforming data into insights.
+- I'm enthusiastic about problem-solving and transforming data into insights.
 
-# What You'll Find Here
-📚 Projects: Explore my work in data analysis, visualization, etc including:
+# 📚 My Projects
 - [E-Commerce Data Analysis](https://github.com/Sushant-Suresh/E-commerce_Data-Analysis_SQL_Project/blob/main/README.md): Analyzed e-commerce data of Amazon to address key business questions and uncover insights.
 - [Crimes Against Women in India Dashboard](https://github.com/Sushant-Suresh/Crimes_Against_Women_In_India_Dashboard/blob/main/README.md): Analyzed trends and visualized key insights into various types of crimes against women in India using a detailed dashboard.
 - [Data Cleaning Using PostgreSQL](https://github.com/Sushant-Suresh/Data_Cleaning_Project_Using_PostgreSQL/blob/main/README.md): In this project, I used PostgreSQL to clean a Dataset having more than 56,000 rows and 19 columns.
@@ -18,11 +17,10 @@
 - [Python for Everybody Specialization](https://coursera.org/share/b596086a05985970727b76be6058975a)
 - [Zero Analyst SQL Workshop](https://drive.google.com/file/d/132NKku0QfVdd_S2gZRHwKiOExrLRa0HL/view?usp=sharing)
 
-# Get in Touch
-- 💬 Connect with me on LinkedIn: 
+# 🚀 Get in Touch
 - 📧 For inquiries, drop me an email at sushant260499@gmail.com
 
-🚀 Feel free to explore my projects, provide feedback, and collaborate. 
+Feel free to explore my projects, provide feedback, and collaborate. 
 
 
 
