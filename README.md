@@ -7,6 +7,7 @@ Hi there! I'm Sushant, I love to analyze, visualize, and uncover patterns within
 - I'm enthusiastic about problem-solving and transforming data into insights.
 
 # 📚 My Projects
+- [Apple Store Data Analysis Using PostgreSQL](https://github.com/Sushant-Suresh/Apple_Store_Data_Analysis_SQL_Project/blob/main/README.md): Analyzed sales records of different Apple stores to answer critical business questions and reveal insights.
 - [Amazon Data Analysis Using PostgreSQL](https://github.com/Sushant-Suresh/E-commerce_Data-Analysis_SQL_Project/blob/main/README.md): Analyzed e-commerce data of Amazon to address key business questions and uncover insights.
 - [Crimes Against Women in India Dashboard](https://github.com/Sushant-Suresh/Crimes_Against_Women_In_India_Dashboard/blob/main/README.md): Analyzed trends and visualized key insights into various types of crimes against women in India using a detailed dashboard.
 - [Data Cleaning Using PostgreSQL](https://github.com/Sushant-Suresh/Data_Cleaning_Project_Using_PostgreSQL/blob/main/README.md): In this project, I used PostgreSQL to clean a Dataset having more than 56,000 rows and 19 columns.
