@@ -22,6 +22,7 @@ Hi there! I'm Sushant, I love to analyze, visualize, and uncover patterns within
 
 # 🚀 Get in Touch
 - 📧 For inquiries, drop me an email at sushant260499@gmail.com
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/sushant-suresh-5782b2333/)
 
 Feel free to explore my projects, provide feedback, and collaborate. 
 
